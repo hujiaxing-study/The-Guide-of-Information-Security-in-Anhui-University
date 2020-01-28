@@ -22,6 +22,6 @@
 <html>
 <body>
         
-<font color=Red>haha</font>
+<font color="#FF0000">haha</font>
 </body>
 </html>
