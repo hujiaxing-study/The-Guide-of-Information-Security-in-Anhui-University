@@ -1,14 +1,14 @@
-  # Summary
+# Table of contents
 
-  * [导读](README.md)
-  * [关于此书](ABOUT.md)
-  * [1 想告诉你的一些事情](1.md)
-      * [1.1 如何判定一个人是否优秀](1-1.md)
-      * [1.2 哲学指导人生](ch1/RepTaskBasic.md)
-      * [1.3 公益创造幸福](ch1/RepTaskAdvanced.md)
-      * [1.4 大学中的底线](ch1/handbook.md)
- 
-  * [备注](ps/handbooks.md)
-  * [参考文献](ps/ref.md)
-  * [致谢](ps/thanks.md)
-  * [后记](no_end/postscript.md)  
+* [导读](README.md)
+* [关于此书](about.md)
+* [1 想告诉你的一些事情](1-xiang-gao-su-ni-de-yi-xie-shi-qing/README.md)
+  * [1.1 如何判定一个人是否优秀](1-xiang-gao-su-ni-de-yi-xie-shi-qing/1-1.md)
+  * [1.2 哲学指导人生](1-xiang-gao-su-ni-de-yi-xie-shi-qing/1.2-zhe-xue-zhi-dao-ren-sheng.md)
+  * [1.3 公益创造幸福](1-xiang-gao-su-ni-de-yi-xie-shi-qing/1.3-gong-yi-chuang-zao-xing-fu.md)
+  * [1.4 大学中的底线](1-xiang-gao-su-ni-de-yi-xie-shi-qing/1.4-da-xue-zhong-de-di-xian.md)
+* [备注](bei-zhu.md)
+* [参考文献](can-kao-wen-xian.md)
+* [致谢](zhi-xie.md)
+* [后记](hou-ji.md)
+
