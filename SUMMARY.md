@@ -1,11 +1,12 @@
   # Summary
 
-  * [Introduction](README.md)
-  * [预备周：基于认知科学的信息训练法](ch0/preface.md)
-      * [检索实操](ch0/RepSearchPractice.md)
-      * [基础任务](ch0/RepTaskBasic.md)_
-      * [进阶任务](ch0/RepTaskAdvanced.md)
-      * [个人教程](ch0/handbook.md)
+  * [导读](README.md)
+  * [关于此书](ABOUT.md)
+  * [1 想告诉你的一些事情](ch0/preface.md)
+      * [1.1 如何判定一个人是否优秀](ch0/RepSearchPractice.md)
+      * [1.2 哲学指导人生](ch0/RepTaskBasic.md)_
+      * [1.3 公益创造幸福](ch0/RepTaskAdvanced.md)
+      * [1.4 大学中的底线](ch0/handbook.md)
   * [第一讲：从现实问题到学科信息](ch1/README.md)
       * [检索实操](ch0/RepSearchPractice.md)
       * [基础任务](ch1/RepTaskBasic.md)
